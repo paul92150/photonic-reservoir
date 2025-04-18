@@ -115,6 +115,6 @@ Despite its simplicity, the model reaches ~99% accuracy and exhibits fascinating
 ## 👤 Author
 
 **Paul Lemaire**  
-🎓 CentraleSupélec Student (Gap Year – AI & Neuromorphic Computing)  
+🎓 CentraleSupélec Student (Gap Year – AI/ML)  
 📫 Contact: paul.lemaire@student-cs.fr  
 🌐 GitHub: [Paul92150](https://github.com/Paul92150)
