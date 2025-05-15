@@ -6,6 +6,7 @@ A neuromorphic machine learning system simulating a quantized photonic reservoir
 
 ## Project Structure
 
+```
 photonic-reservoir/
 ├── src/
 │   └── reservoir/
@@ -23,6 +24,7 @@ photonic-reservoir/
 ├── requirements.txt
 ├── LICENSE
 └── .gitignore
+```
 
 ## Overview
 
