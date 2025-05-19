@@ -93,7 +93,7 @@ Despite its simplicity, the model reaches nearly 99% accuracy and exhibits fasci
 ## Author
 
 Paul Lemaire  
-CentraleSupélec Student (Gap Year – AI/ML)  
+CentraleSupélec Student 
 Email: paul.lemaire@student-cs.fr  
 GitHub: [Paul92150](https://github.com/Paul92150)
 
