@@ -28,7 +28,7 @@ photonic-reservoir/
 
 ## Overview
 
-This project was developed as part of a neuromorphic computing course at CentraleSupélec (ST7). It implements a fast, quantized simulation of a photonic-inspired reservoir using NumPy, and explores:
+This project was developed as part of a neuromorphic computing course at CentraleSupélec. It implements a fast, quantized simulation of a photonic-inspired reservoir using NumPy, and explores:
 
 - Stability and divergence using pseudo-Lyapunov curves  
 - Convergence speed under leaky integration  
